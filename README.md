@@ -12,4 +12,4 @@ The CSV file contains these datapoints -
 
 All values are based on 100 grams of food.
 
-Data source - https://fdc.nal.usda.gov/
+API - https://fdc.nal.usda.gov/
